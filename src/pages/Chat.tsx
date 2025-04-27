@@ -41,7 +41,7 @@ const Chat = () => {
       {/* Header */}
       <header className="bg-white border-b border-gray-200 px-4 py-3 flex items-center justify-between">
         <div className="flex items-center">
-          <h1 className="text-xl font-bold text-indigo-600">VisionChat</h1>
+          <h1 className="text-xl font-bold text-indigo-600">Souvchat</h1>
           <span className="ml-2 bg-indigo-100 text-indigo-800 text-xs px-2 py-0.5 rounded-full">
             Beta
           </span>
